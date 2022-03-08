@@ -2,7 +2,7 @@
 
 ![fdplacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdplacido&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdplacido&layout=compact)](https://github.com/fdplacido/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdplacido&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 **Tools**
 
