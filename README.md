@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![fdplacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdplacido&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdplacido&layout=compact)](https://github.com/fdplacido/github-readme-stats)
 
 **Tools**
