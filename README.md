@@ -3,9 +3,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdplacido&show_icons=true&hide=stars&count_private=true&hide_rank=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdplacido&layout=compact&langs_count=10&exclude_repo=nnn,parallel_synth_cuda&hide=cmake" />
-</a>
 
 
 **Programming languages**
