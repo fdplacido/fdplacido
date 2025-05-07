@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdplacido&show_icons=true&hide=stars&count_private=true&hide_rank=true" />
-</a>
-
-
 **Programming languages**
 
 ![C++](https://img.shields.io/badge/-C++-grey?style=flat&logo=C%2B%2B&logoColor=33a2ff)
